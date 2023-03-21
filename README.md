@@ -1,6 +1,6 @@
 # Project Euler
 
-This repo contains my works on Project Euler using C Programming Language. Feel free to take whatever inspiration from it that you want but remember to do it yourself. There is no wrong to do with another algorithm :)
+This repo contains my works ong Project Euler using C Programming Language. Feel free to take whatever inspiration from it that you want but remember to do it yourself. There is no wrong to do with another algorithm :)
 
 I only can share 1-100 problems because of Project Euler Rules :)
 
