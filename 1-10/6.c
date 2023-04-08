@@ -6,6 +6,10 @@ redistribute this work under the terms of the Massachusetts Institute of Technol
 A copy of that license is available at https://license.icaksh.my.id/MIT
 */
 
+/*
+Problem contains LateX Equation
+*/
+
 #include <stdio.h>
 
 int main(void)

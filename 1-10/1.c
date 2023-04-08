@@ -6,6 +6,12 @@ redistribute this work under the terms of the Massachusetts Institute of Technol
 A copy of that license is available at https://license.icaksh.my.id/MIT
 */
 
+/*
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+
+Find the sum of all the multiples of 3 or 5 below 1000.
+*/
+
 #include <stdio.h>
 
 int sum_div(int target, int number)

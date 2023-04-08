@@ -6,6 +6,16 @@ redistribute this work under the terms of the Massachusetts Institute of Technol
 A copy of that license is available at https://license.icaksh.my.id/MIT
 */
 
+/*
+A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
+
+a2 + b2 = c2
+For example, 32 + 42 = 9 + 16 = 25 = 52.
+
+There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+Find the product abc.
+*/
+
 #include <stdio.h>
 
 int pythagorean_triplet(int c)
